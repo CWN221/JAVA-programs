@@ -2,8 +2,9 @@
 package com.mycompany.swing;
 
 /**
- *
- * @author pc
+ * BSE-01-0032/2024
+ * @author Carlos Nduhiu
+ * 3/04/2025
  */
 
 import javax.swing.*;
